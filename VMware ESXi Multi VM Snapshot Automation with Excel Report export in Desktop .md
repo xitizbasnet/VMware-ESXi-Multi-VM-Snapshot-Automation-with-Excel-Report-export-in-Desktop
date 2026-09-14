@@ -771,7 +771,7 @@ VM NOT FOUND
 verify the VM name directly through PowerCLI:
 
 ```powershell
-Get-VM -Server 192.168.5.13
+Get-VM -Server 192.168.1.13
 ```
 
 Then compare the actual VM name with the corresponding entry in:
