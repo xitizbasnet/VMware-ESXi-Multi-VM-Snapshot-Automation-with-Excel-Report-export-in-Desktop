@@ -1,9 +1,6 @@
 # VMware ESXi Multi-VM Snapshot Automation + Excel Report
 
 > [!NOTE]
-> **Document Type:** IT Operations / System Administration Manual
-> **Technology:** VMware ESXi, VMware PowerCLI, PowerShell, ImportExcel
-> **Audience:** Interns, L1/L2 Engineers, System Administrators
 > **Purpose:** Automate VM snapshots on a standalone VMware ESXi host and generate an Excel report containing ESXi, VM, and snapshot information.
 
 ---
